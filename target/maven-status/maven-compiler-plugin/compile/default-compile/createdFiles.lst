@@ -1,0 +1,7 @@
+com\maxitravel\maxitravel\interfaces\IPersona.class
+com\maxitravel\maxitravel\MaxitravelApplication.class
+com\maxitravel\maxitravel\modelo\Persona.class
+com\maxitravel\maxitravel\interfaceServices\IpersonaService.class
+com\maxitravel\maxitravel\services\PersonaService.class
+com\maxitravel\maxitravel\controler\Controler.class
+com\maxitravel\maxitravel\ServletInitializer.class
